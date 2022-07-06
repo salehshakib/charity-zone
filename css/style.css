@@ -1,7 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+
 
 body{
     font-family: 'Poppins', sans-serif;
@@ -201,6 +198,7 @@ body{
 footer{
     background-color: #0B0D17;
     padding: 43px 655px;
+    
 }
 .footer-text{
     color: white;
@@ -360,7 +358,7 @@ footer{
     
 }
 .help-title .paragraph{
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 .help-title a{
