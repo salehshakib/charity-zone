@@ -164,13 +164,16 @@ body{
 }
 .food{
     background-color: rgba(79, 157, 166, 0.1);
+    width: 33%;
 }
 
 .shelter{
     background-color: rgba(255, 89, 89, 0.1);
+    width: 33%
 }
 .education{
     background-color: #FFF4D6;
+    width: 33%
 }
 
 .contribution h3{
@@ -275,11 +278,13 @@ footer{
 .email {
     outline: none;
     border: none;
+    color: black;
+    font-weight: 500;
+    font-size: 16px;
+
 }
 
 .email-us a{
-
-    
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
