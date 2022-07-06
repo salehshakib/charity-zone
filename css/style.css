@@ -1,0 +1,133 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header-section{
+    background-image: url(../images/donation13.jpg);
+    background-repeat: no-repeat;
+    padding-top: 174px;
+    padding-bottom: 175px;
+    background-size: cover;
+    
+}
+
+.header-title h1{
+
+    font-family:'Inter', sans-serif;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-size: 65px;
+    margin-left: 307px;
+    margin-right: 307px;
+    margin-bottom: 20px;
+
+}
+
+.header-title p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-left: 375px;
+    margin-right: 375px;
+    padding: 0px 10px;
+    margin-bottom: 30px;    
+
+}
+
+.btn a{
+
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(#FF5959, tomato);
+    color: white;
+    padding: 16px 12px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;  
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+.donation-section{
+    padding-bottom: 130px;
+
+}
+
+.donation-title h1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 130px;
+    margin-bottom: 20px;
+
+}
+
+.donation-title p{
+    border: red solid 2px;
+    text-align: center;
+    margin: 0px 375px;
+}
+
+.amount{
+    display: flex;
+    justify-content: center;  
+    
+}
+
+.amount h2{
+    font-family: 'Inter';
+    font-style: normal;
+    background-color:#FAFAFA;
+    color: #707070;
+    display: inline;
+    padding: 43px 25px;
+    margin: 50px 10px;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.amount .selected-item{
+    color: #FF5959;
+    border: #FF5959 solid 2px;
+    background-color: #FFEEEE;
+    border-radius: 5px;
+    
+}
+
+.input-field{
+    display: flex;
+    justify-content: center;
+    margin: 0px 375px; 
+    margin-bottom: 30px;
+    margin-top: 60px;
+    text-decoration: none;
+    border-bottom: red solid 2px;  
+    padding: 5px;  
+    
+}
+
+.input-field ::placeholder{
+    text-align: center;
+}
+.input{
+    outline: none;
+    border: none;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #B3B3B3;
+}
+
+
+
