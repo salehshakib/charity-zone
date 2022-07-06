@@ -291,3 +291,63 @@ footer{
     border-radius: 0px 5px 5px 0px;
     padding: 12px 45px;
 }
+
+.help-section{
+    display: flex;
+    justify-content: center;
+}
+
+.help-title{
+    
+    width: 40%;
+    padding-left: 20px;
+    padding-right: 60px;
+    display: block;
+    justify-content: center;
+}
+
+.help-section img{
+    padding: 5%;
+    width: 100%; 
+}
+
+.help-title h1{
+
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-top: 10%;
+
+}
+
+.help-title p{
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+    margin-bottom: 20px;
+    display: inline-block;
+    text-align: justify;
+    
+}
+.help-title .paragraph{
+    margin-bottom: 40px;
+}
+
+.help-title a{
+    
+    background-color: #FF5959;
+    color: white;
+    padding: 16px 12px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;  
+    
+
+}
