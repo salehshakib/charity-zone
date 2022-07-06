@@ -244,7 +244,6 @@ footer{
 }
 
 .email-us{  
-    
     padding: 76px 187px;
     margin-left: 316px;
     margin-right: 316px;
@@ -278,13 +277,12 @@ footer{
 .email {
     outline: none;
     border: none;
-    color: black;
     font-weight: 500;
     font-size: 16px;
 
 }
 
-.email-us a{
+/* .email-us a{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -295,6 +293,21 @@ footer{
     text-decoration: none;
     border-radius: 0px 5px 5px 0px;
     padding: 12px 45px;
+} */
+
+.email-us button{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    background-color: #FF5959;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 0px 5px 5px 0px;
+    padding: 12px 45px;
+    border: none;
+    
 }
 
 .help-section{
