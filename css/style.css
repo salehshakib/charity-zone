@@ -69,9 +69,7 @@ body{
     margin-bottom: 20px;
 
 }
-
 .donation-title p{
-    border: red solid 2px;
     text-align: center;
     margin: 0px 375px;
 }
@@ -79,7 +77,6 @@ body{
 .amount{
     display: flex;
     justify-content: center;  
-    
 }
 
 .amount h2{
@@ -134,7 +131,7 @@ body{
 }
 
 .donation-plan-title h1{
-    border: red solid 2px;
+    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -145,7 +142,7 @@ body{
 
 .donation-plan-title p{
 
-    border: red solid 2px;
+    
 
     font-family: 'Poppins';
     font-style: normal;
