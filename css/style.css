@@ -2,6 +2,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .header-section{
     background-image: url(../images/donation13.jpg);
@@ -113,9 +114,8 @@ body{
     
 }
 
-.input-field ::placeholder{
-    text-align: center;
-}
+
+
 .input{
     outline: none;
     border: none;
@@ -152,7 +152,7 @@ body{
 
 }
 
-.contribution{
+#contribution{
     display: flex;
     justify-content: center;
     margin: 50px 150px;
@@ -178,7 +178,7 @@ body{
     width: 33%
 }
 
-.contribution h3{
+#contribution h3{
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
@@ -186,7 +186,7 @@ body{
     color: #121212;
 }
 
-.contribution p{
+#contribution p{
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
@@ -198,6 +198,7 @@ body{
 footer{
     background-color: #0B0D17;
     padding: 43px 655px;
+    --margin: 0 auto;
     
 }
 .footer-text{
