@@ -129,5 +129,69 @@ body{
     color: #B3B3B3;
 }
 
+.donation-plan-section{
 
+}
 
+.donation-plan-title h1{
+    border: red solid 2px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+    color: #121212;
+}
+
+.donation-plan-title p{
+
+    border: red solid 2px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #707070;
+    margin: 20px 375px;
+
+}
+
+.contribution{
+    display: flex;
+    justify-content: center;
+    margin: 50px 150px;
+}
+
+.food, .shelter, .education{
+    padding: 65px 22px 54px 22px;
+    margin: 0px 10px;
+    border-radius: 5px;
+    
+}
+.food{
+    background-color: rgba(79, 157, 166, 0.1);
+}
+
+.shelter{
+    background-color: rgba(255, 89, 89, 0.1);
+}
+.education{
+    background-color: #FFF4D6;
+}
+
+.contribution h3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #121212;
+}
+
+.contribution p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #707070;
+}
